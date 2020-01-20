@@ -4,6 +4,6 @@ function testFunc() {
   return "hi"
 }
 
-function superbowlWin(array) {
+superbowlWin(array) {
   
 }
